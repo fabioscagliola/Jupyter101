@@ -36,7 +36,7 @@ Spin up the container,
 docker compose up
 ```
 
-then navigate to [http://localhost:8888](http://localhost:8888).
+and then navigate to [http://localhost:8888](http://localhost:8888).
 
 ## Binder
 
