@@ -14,21 +14,15 @@ This repository contains a notebook that will guide you through the basics of Ju
 
 Install Jupyter Notebook as explained [here](https://jupyter.org/install).
 
-Then clone this repo,
+Clone this repo,
 
 ```bash
 git clone https://github.com/fabioscagliola/Jupyter101.git
 ```
 
-```bash
-cd Jupyter101
-```
-
-open the `Jupyter101.ipynb` notebook,
+then open the `Jupyter101.ipynb` notebook, and let us take it from there.
 
 ```bash
 jupyter notebook Jupyter101/Jupyter101.ipynb
 ```
-
-and let us take it from there.
 
