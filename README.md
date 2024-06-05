@@ -20,11 +20,13 @@ Clone this repo,
 git clone https://github.com/fabioscagliola/Jupyter101.git
 ```
 
-then open the `Jupyter101.ipynb` notebook, and let us take it from there.
+then open the `Jupyter101.ipynb` notebook,
 
 ```bash
 jupyter notebook Jupyter101/Jupyter101.ipynb
 ```
+
+and let us take it from there.
 
 ## Docker setup
 
