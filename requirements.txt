@@ -1,3 +1,4 @@
+ipyvolume
 ipywidgets
 matplotlib
 numpy
