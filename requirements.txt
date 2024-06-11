@@ -2,3 +2,4 @@ ipyvolume
 ipywidgets
 matplotlib
 numpy
+pandas
