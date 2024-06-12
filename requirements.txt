@@ -1,0 +1,6 @@
+ipyvolume
+ipywidgets
+matplotlib
+numpy
+pandas
+statsmodels
